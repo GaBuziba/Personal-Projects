@@ -1,2 +1,2 @@
-# Summer-2023-Projects
-Microcontroller projects to better showcase my understanding of firmware
+# Personal Projects
+June 2024: Simple Processor in Verilog
